@@ -1,100 +1,101 @@
 {
-  "hero_headline": "技术与财经市场动荡，US应对新挑战",
-  "daily_overview": "今日，各大领域传出重要消息。在科技方面，AI技术的应用于软件交付正加速，而新的AI写作教练令人瞩目。财经领域，印尼政府承诺稳定货币，同时美国股市因科技股疲软显著下滑。政坛方面，美国因伊朗无人机事件将重新评估在波斯尼亚的角色，而在非洲，冲突加剧引发国际关注。总体上，技术进步与市场波动交织，影响深远。",
+  "hero_headline": "全球市场波动与国际政治动态交织",
+  "daily_overview": "今日科技领域有多个新项目和工具推出，如Endava使用AI优化软件交付，受到广泛关注；财经方面，市场因对大科技公司的担忧而下跌，美国劳动力市场表现依然强劲；时政方面，全球局势紧张，尤其是美伊冲突加剧和阿根廷即将进行的重要选举，均引发国际关注。",
   "tech_briefs": [
     {
-      "title": "Endava重新设计软件交付流程",
+      "title": "Endava使用AI代理重新设计软件交付方式",
       "url": "https://openai.com/index/endava-frontiers",
       "source": "OpenAI News",
-      "summary": "Endava利用AI代理、ChatGPT企业版及Codex，加速软件交付并自动化工作流程，助力实现AI原生文化（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "ChatGPT推出记忆系统",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI News",
-      "summary": "ChatGPT引入新记忆系统，可以更好地记住用户偏好，使对话背景更加贴合，提升用户体验。",
+      "summary": "Endava通过使用AI代理和ChatGPT来加速软件交付，自动化工作流程，从而推动企业的AI原生文化发展，为企业提供更多技术支持和效率提升。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Meta客户支持代理遭黑客攻击",
+      "title": "GitHub上新推出hermes-agent项目",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source": "GitHub Trending",
+      "summary": "该项目是一个智能代理，能够根据用户需求自我成长，帮助用户更好地管理和使用资源，值得开发者关注。（多家报道）",
+      "importance": 7
+    },
+    {
+      "title": "Meta被盗用的AI客服系统曝光",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "source": "MIT Tech Review AI",
-      "summary": "黑客利用Meta的AI代理窃取Instagram账户，显示AI安全性问题（多家报道）",
-      "importance": 7
+      "summary": "近期报道揭示了攻击者如何利用Meta AI客服系统来窃取用户Instagram账号，显示了AI安全问题的严重性，引发了公众对该技术的深入讨论。（多家报道）",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "US股市因大科技股下跌而显著回落",
+      "title": "美国股票市场因大科技公司担忧而下跌",
       "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美国股市经历自2025年初以来最大跌幅，市场对大科技股的担忧加剧。",
-      "importance": 9
-    },
-    {
-      "title": "印尼承诺稳定货币以吸引资金流入",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/indonesian-officials-vow-again-to-stabilize-rupiah-draw-inflows",
-      "source": "Bloomberg Markets",
-      "summary": "印尼财务及中央银行官员重申将加大努力稳定货币，吸引资金流入。（多家报道）",
+      "summary": "随大科技公司的财报不佳，纳斯达克指数出现自2025年初以来最大的日内跌幅，投资者对市场前景感到紧张。",
       "importance": 8
     },
     {
-      "title": "KPMG首席经济学家谈美联储加息预期",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/kpmg-chief-economist-discusses-fed-rate-hike-expectation-video",
+      "title": "新西兰央行行长称寻找应对保护主义的解决方案",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/rbnz-s-breman-says-country-finding-solutions-to-protectionism",
       "source": "Bloomberg Markets",
-      "summary": "KPMG首席经济学家分析了当前经济形势，强调劳动力市场的改善和服务行业持续通胀对加息预期的影响。",
+      "summary": "新西兰央行行长安娜·布雷曼指出，面对深刻的保护主义趋势，国家正在找到应对的积极信号，促进国际合作。",
       "importance": 7
+    },
+    {
+      "title": "美劳动力市场依旧火热",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market",
+      "source": "The Economist Finance",
+      "summary": "尽管面临诸多挑战，美国劳动力市场表现依然强劲，给经济复苏带来了积极预期。",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "US军方击落伊朗无人机",
-      "url": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
-      "source": "NPR World",
-      "summary": "美国军方击落来自伊朗的无人机，反映局势紧张。（多家报道）",
-      "importance": 8
+      "title": "美伊冲突升级，双方互相攻击",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "美国军事力量在海湾地区打击伊朗目标，作为双方冲突加剧的标志，再次引发国际社会关注和担忧。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "中非埃博拉疫情或会创下纪录",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-      "source": "The Guardian",
-      "summary": "美国公共卫生官员警告，中非的埃博拉疫情传播可能处于危险轨道，需引起高度重视。",
+      "title": "菲律宾法庭撤销马尔科斯家族资产案件",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/philippine-court-drops-remaining-marcos-ill-gotten-wealth-case",
+      "source": "Bloomberg Markets",
+      "summary": "菲律宾反贪腐法院撤销了对马尔科斯家族的剩余资产索赔案件，令该事件再次成为舆论热点。",
       "importance": 7
     }
   ],
-  "editor_note": "今日科技与财经消息交织，显示出全球市场的复杂性及挑战，投资者需保持警惕。",
+  "editor_note": "今日简报涵盖市场动荡与科技创新，关注国际局势，有助于读者了解重要事件的影响与前哨迹象。",
   "keywords": [
+    "科技",
+    "财经",
+    "时政",
+    "市场",
     "AI",
-    "金融市场",
-    "科技股",
-    "Ebola",
-    "印尼货币",
-    "美国军方"
+    "国际关系",
+    "投资"
   ],
   "trading": {
-    "market_overview": "当前市场情绪偏向恐慌，尤其是在加密货币领域，整体市值为2.14万亿美元，24小时下降5.57%。比特币主导率为56.1%，以太坊占比为8.6%。美股方面，部分科技股如苹果和微软显示出下行压力，纳斯达克和标准普尔500指数也呈现出短期的动量减弱。大宗商品方面，油价和黄金相对稳定，维持中性表现。",
+    "market_overview": "整体市场表现疲软，美股市场如 S&P 500 ETF（SPY）过去 1 天下跌 2.58%，Nasdaq 100 ETF（QQQ）下跌 4.8%。在加密市场，恐慌贪婪指数为 12，显示出极度恐慌情绪，导致比特币和以太坊的大幅下跌。同时，商品市场方面，WTI 原油期货近期波动较大，当前价格为 90.54 USD，反映出供需关系的不确定性。美国国债收益率（^TNX）持续维持在上升趋势，最新报价为 4.54%。",
     "watchlist": [
       {
         "symbol": "BTC-USD",
-        "display_name": "Bitcoin (BTC-USD)",
+        "display_name": "Bitcoin (BTC)",
         "stance": "偏下行",
-        "rationale": "当前价格为59633.98美元，RSI读数为14.4，处于超卖状态，且与52周低点接近，显示出空头排列的趋势。"
+        "rationale": "当前比特币价格为 60864.48 USD，RSI 指标为 15.4，显示超卖状态。过去 5 天价格下跌 14.66%。此外，MACD 为 -3921.0924，表明当前趋势为空头排列，接近 52 周低点。"
       },
       {
         "symbol": "ETH-USD",
-        "display_name": "Ethereum (ETH-USD)",
+        "display_name": "Ethereum (ETH)",
         "stance": "偏下行",
-        "rationale": "当前价格为1520.13美元，RSI为11.8，显著超卖，且接近52周低，表明市场情绪悲观，处于空头趋势。"
+        "rationale": "以太坊当前价格为 1570.56 USD，RSI 指标为 12.7，处于超卖状态。过去 5 天价格下降 21.6%。MACD 为 -140.1518，趋势为空头排列，显示当前市场压力明显。"
       },
       {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
-        "stance": "中性",
-        "rationale": "当前价格737.55美元，RSI为49.4，处于正常区间，尽管短期动能下滑，整体趋势仍显示为多头排列，状态相对中性。"
+        "symbol": "^VIX",
+        "display_name": "VIX 恐慌指数",
+        "stance": "偏上行",
+        "rationale": "VIX 当前价格为 21.51，过去 1 天上涨了 39.68%。其 RSI 指标为 65.7，显示市场恐慌情绪上升，并且 MACD 已形成金叉，显示出潜在的多头动力。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，以上分析仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现。本报告仅供技术指标解读参考，任何投资决策需谨慎行事并结合自身风险承受能力。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -339,18 +340,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 59633.98,
-        "pct1Day": -6.532118164453103,
-        "pct5Day": -18.953202947484655,
-        "pct52WeekHigh": -52.74572741088671,
-        "pct52WeekLow": -0.6128294257321539,
-        "sma20": 73122.071484375,
-        "sma50": 76353.18265625,
-        "sma200": 78770.38115234375,
-        "rsi14": 14.449658318127945,
-        "macd": -3618.8938399435137,
-        "macdSignal": -2009.2746941621924,
-        "macdHistogram": -1609.6191457813213,
+        "currentPrice": 60864.48,
+        "pct1Day": -0.09551119589812457,
+        "pct5Day": -14.659740116340014,
+        "pct52WeekHigh": -51.77067287954562,
+        "pct52WeekLow": 2.29904637447923,
+        "sma20": 72358.2623046875,
+        "sma50": 76053.708515625,
+        "sma200": 78616.4026171875,
+        "rsi14": 15.399176867317436,
+        "macd": -3921.0924113169604,
+        "macdSignal": -2375.190032464941,
+        "macdHistogram": -1545.9023788520194,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
@@ -374,28 +375,24 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1520.13,
-        "pct1Day": -14.096592782596284,
-        "pct5Day": -24.158135726608116,
-        "pct52WeekHigh": -69.31344503226153,
-        "pct52WeekLow": -0.8489732876059977,
-        "sma20": 2005.6619873046875,
-        "sma50": 2188.9660693359374,
-        "sma200": 2464.1210876464843,
-        "rsi14": 11.835049697273291,
-        "macd": -127.81342012157415,
-        "macdSignal": -85.30591034573092,
-        "macdHistogram": -42.50750977584323,
+        "currentPrice": 1570.56,
+        "pct1Day": -0.6515968758368494,
+        "pct5Day": -21.598273483844505,
+        "pct52WeekHigh": -68.29542488462741,
+        "pct52WeekLow": 3.8475690976516637,
+        "sma20": 1980.8442687988281,
+        "sma50": 2173.1704516601562,
+        "sma200": 2456.6626470947267,
+        "rsi14": 12.722474377698745,
+        "macd": -140.15183291852736,
+        "macdSignal": -95.49995485850961,
+        "macdHistogram": -44.65187806001775,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
           {
             "type": "rsi-oversold",
             "label": "RSI 超卖"
-          },
-          {
-            "type": "near-52w-low",
-            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -409,28 +406,24 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 60.64,
-        "pct1Day": -11.756478175560309,
-        "pct5Day": -26.316827018588945,
-        "pct52WeekHigh": -76.05148929800929,
-        "pct52WeekLow": -1.1720338368442182,
-        "sma20": 80.95108566284179,
-        "sma50": 84.9669204711914,
-        "sma200": 102.76802623748779,
-        "rsi14": 14.819512954406122,
-        "macd": -4.756050592238907,
-        "macdSignal": -2.5627143970317157,
-        "macdHistogram": -2.1933361952071913,
+        "currentPrice": 62.58,
+        "pct1Day": -1.428549333970091,
+        "pct5Day": -22.82365374204078,
+        "pct52WeekHigh": -75.28532652159335,
+        "pct52WeekLow": 3.5436310325788436,
+        "sma20": 79.96378536224366,
+        "sma50": 84.4979761505127,
+        "sma200": 102.39158903121948,
+        "rsi14": 15.776184513689103,
+        "macd": -5.286562682972061,
+        "macdSignal": -3.0711470052191627,
+        "macdHistogram": -2.2154156777528984,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
           {
             "type": "rsi-oversold",
             "label": "RSI 超卖"
-          },
-          {
-            "type": "near-52w-low",
-            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -557,11 +550,11 @@
         "group": "commodity-fx",
         "currency": "USD",
         "exchangeName": "CMX",
-        "currentPrice": 4353.9,
-        "pct1Day": -2.7235312124513444,
-        "pct5Day": -4.530205021379243,
-        "pct52WeekHigh": -22.05971859224518,
-        "pct52WeekLow": 33.809699428360666,
+        "currentPrice": 4365.3,
+        "pct1Day": -2.468828131494476,
+        "pct5Day": -4.280232430654529,
+        "pct52WeekHigh": -21.855644266227483,
+        "pct52WeekLow": 34.16005900792919,
         "sma20": 4546.039990234375,
         "sma50": 4624.0619921875,
         "sma200": 4398.545487060547,
@@ -668,17 +661,21 @@
         "pct1Day": 1.3178414199670798,
         "pct5Day": 1.863910398733508,
         "pct52WeekHigh": -9.225535321192723,
-        "pct52WeekLow": 35.60538116591926,
-        "sma20": 4.5047999858856205,
-        "sma50": 4.403219985961914,
-        "sma200": 4.204714993238449,
-        "rsi14": 57.70651053394147,
-        "macd": 0.026522312181200824,
-        "macdSignal": 0.0365709836166206,
-        "macdHistogram": -0.010048671435419779,
+        "pct52WeekLow": 0,
+        "sma20": 4.504799962043762,
+        "sma50": 4.403219976425171,
+        "sma200": 4.204714990854264,
+        "rsi14": 57.7064695295308,
+        "macd": 0.026522274142909197,
+        "macdSignal": 0.03657097600896228,
+        "macdHistogram": -0.010048701866053084,
         "trend": "bullish",
         "rsiState": "normal",
         "signals": [
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
+          },
           {
             "type": "above-sma50-sma200",
             "label": "多头排列"
@@ -724,13 +721,13 @@
       "timestamp": "2026-06-06T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2138777289750.8455,
-      "total24hVolumeUsd": 178180072866.19617,
-      "marketCapChangePct24h": -5.573392188635386,
-      "btcDominance": 56.11194573162195,
-      "ethDominance": 8.637897947541076,
-      "activeCryptocurrencies": 17370
+      "totalMarketCapUsd": 2176333344612.8457,
+      "total24hVolumeUsd": 167223923420.76624,
+      "marketCapChangePct24h": -2.250792895433908,
+      "btcDominance": 56.11997100223212,
+      "ethDominance": 8.729951653204608,
+      "activeCryptocurrencies": 17372
     },
-    "generated_at": "2026-06-06T04:33:55.120Z"
+    "generated_at": "2026-06-06T08:03:17.463Z"
   }
 }
