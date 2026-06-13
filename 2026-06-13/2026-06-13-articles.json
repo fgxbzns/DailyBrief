@@ -6,146 +6,146 @@
       "title": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "excerpt": "Collection of publicly available IPTV channels from all over the world",
-      "meta": "TypeScript · ★ 118,303 · 🍴 6,321 · 📈 179 stars today",
+      "meta": "TypeScript · ★ 118,357 · 🍴 6,324 · 📈 179 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目收集了来自世界各地的公共 IPTV 频道，用户可以方便地访问各种视频内容，解决了用户寻找 IPTV 频道的难题。"
+      "summary": "该项目汇集了来自全球的公共 IPTV 频道，用户可以方便地访问多种视频内容，解决了寻找和使用 IPTV 频道的难题。"
     },
     {
       "sourceId": "github-trending",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "excerpt": "Production-grade engineering skills for AI coding agents.",
-      "meta": "Shell · ★ 57,612 · 🍴 6,226 · 📈 2,656 stars today",
+      "meta": "Shell · ★ 57,662 · 🍴 6,231 · 📈 1,507 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了针对 AI 编码代理的工程技能，旨在提升其生产力，并为开发者提供了一套系统化的技能框架。"
+      "summary": "该项目提供了适用于 AI 编码代理的生产级工程技能，旨在提升 AI 编程的效率和可靠性，适合需要开发智能编程助手的开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "excerpt": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "meta": "Ruby · ★ 30,639 · 🍴 7,539 · 📈 437 stars today",
+      "meta": "Ruby · ★ 30,662 · 🍴 7,541 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Chatwoot 是一个开源的实时聊天和电子邮件支持平台，提供全渠道客服解决方案，为希望寻找 Intercom 或 Zendesk 替代品的企业提供服务。"
+      "summary": "Chatwoot 是一个开源的实时聊天和电子邮件支持平台，作为 Intercom、Zendesk 和 Salesforce 服务云等的替代品，适合需要多渠道客户支持的企业使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "excerpt": "An agentic skills framework & software development methodology that works.",
-      "meta": "Shell · ★ 226,477 · 🍴 20,126 · 📈 1,275 stars today",
+      "meta": "Shell · ★ 226,513 · 🍴 20,128 · 📈 931 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一种代理技能框架和软件开发方法论，致力于优化开发流程，提升软件开发效率。"
+      "summary": "Superpowers 是一个执行代理能力的框架和软件开发方法论，旨在提高开发效率，适合软件开发团队和个人开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "apple/container",
       "url": "https://github.com/apple/container",
       "excerpt": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "meta": "Swift · ★ 35,750 · 🍴 1,008 · 📈 3,504 stars today",
+      "meta": "Swift · ★ 35,793 · 🍴 1,010 · 📈 1,471 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该工具允许在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器，是为 Apple silicon 优化的 Swift 编写的解决方案。"
+      "summary": "该工具允许用户在 Mac 上使用轻量级虚拟机创建和运行 Linux 容器，采用 Swift 编写，优化了 Apple silicon，适合开发者进行容器化开发。"
     },
     {
       "sourceId": "github-trending",
       "title": "music-assistant/server",
       "url": "https://github.com/music-assistant/server",
       "excerpt": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
-      "meta": "Python · ★ 1,898 · 🍴 426 · 📈 20 stars today",
+      "meta": "Python · ★ 1,906 · 🍴 426 · 📈 20 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Music Assistant 是一个自由开源的媒体库管理工具，能够连接多种流媒体服务和扬声器，是用户统一管理音乐内容的核心。"
+      "summary": "Music Assistant 是一个免费的开源媒体库管理器，可以连接流媒体服务和各种智能音响，作为音乐播放的核心，适合音乐爱好者和相关开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "kenn-io/agentsview",
       "url": "https://github.com/kenn-io/agentsview",
       "excerpt": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-      "meta": "Go · ★ 2,149 · 🍴 201 · 📈 530 stars today",
+      "meta": "Go · ★ 2,160 · 🍴 201 · 📈 187 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agentsview 提供了一种本地优先的会话智能和分析功能，支持多种编码代理，极大提升了分析速度，适合开发者使用。"
+      "summary": "Agentsview 提供了本地优先的会话智能和分析功能，支持多种编码代理，能够显著提升开发效率，适合使用智能编码工具的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "LMCache/LMCache",
       "url": "https://github.com/LMCache/LMCache",
       "excerpt": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
-      "meta": "Python · ★ 8,749 · 🍴 1,299 · 📈 28 stars today",
+      "meta": "Python · ★ 8,760 · 🍴 1,299 · 📈 28 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "LMCache 是一个高效的键值缓存层，旨在加速大型语言模型的响应速度，为需要快速处理数据的应用提供支持。"
+      "summary": "LMCache 是一个针对大型语言模型（LLM）的高性能键值缓存层，旨在提升模型的响应速度，适合需要优化 AI 模型性能的开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/PowerToys",
       "url": "https://github.com/microsoft/PowerToys",
       "excerpt": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "meta": "C · ★ 134,490 · 🍴 8,069 · 📈 103 stars today",
+      "meta": "C · ★ 134,507 · 🍴 8,070 · 📈 103 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Microsoft PowerToys 是一组实用工具，旨在提升 Windows 的生产力和自定义功能，适用于需要增强系统功能的用户。"
+      "summary": "Microsoft PowerToys 是一系列增强 Windows 生产力和自定义的工具，帮助用户提升工作效率，适合日常需要高效工作的 Windows 用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "excerpt": "Simple, unified interface to multiple Generative AI providers",
-      "meta": "Python · ★ 13,977 · 🍴 1,482 · 📈 132 stars today",
+      "meta": "Python · ★ 13,988 · 🍴 1,482 · 📈 132 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目为多个生成式 AI 提供商提供了一个简洁统一的接口，方便开发者进行接入与使用。"
+      "summary": "AISuite 提供了多个生成式 AI 提供商的简单统一接口，方便开发者接入和使用不同的 AI 服务，适合需要集成多种 AI 技术的项目开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "excerpt": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-      "meta": "Python · ★ 3,888 · 🍴 296 · 📈 813 stars today",
+      "meta": "Python · ★ 3,942 · 🍴 297 · 📈 809 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "SkillSpector 是一个用于 AI 代理技能的安全扫描工具，能够检测出漏洞、恶意模式和安全风险，适合开发安全敏感应用的团队使用。"
+      "summary": "SkillSpector 是一款针对 AI 代理技能的安全扫描工具，能检测漏洞和安全风险，适合开发安全应用或使用 AI 技术的企业进行风控。"
     },
     {
       "sourceId": "github-trending",
       "title": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "excerpt": "翻墙-科学上网",
-      "meta": "Kotlin · ★ 47,342 · 🍴 8,067 · 📈 737 stars today",
+      "meta": "Kotlin · ★ 47,362 · 🍴 8,067 · 📈 86 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目为用户提供翻墙和科学上网的解决方案，旨在帮助用户突破网络限制，安全访问互联网。"
+      "summary": "该项目为用户提供翻墙和科学上网的解决方案，允许用户安全访问被封锁的网站，适合需要突破网络限制的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "swc-project/swc",
       "url": "https://github.com/swc-project/swc",
       "excerpt": "Rust-based platform for the Web",
-      "meta": "Rust · ★ 33,545 · 🍴 1,396 · 📈 12 stars today",
+      "meta": "Rust · ★ 33,558 · 🍴 1,397 · 📈 12 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "SWC 是一个基于 Rust 的 Web 平台，旨在提高 JavaScript 和 TypeScript 的编译速度，为 Web 开发者提供更高效的开发体验。"
+      "summary": "SWC 是基于 Rust 的 Web 平台，旨在提供高性能的 JavaScript 编译和转译工具，适合前端开发者提升构建效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "excerpt": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts",
-      "meta": "★ 140,169 · 🍴 34,649 · 📈 356 stars today",
+      "meta": "★ 140,180 · 🍴 34,650 · 📈 107 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目收集了多种 AI 工具的系统提示和模型，旨在为开发者提供丰富的生成式 AI 参考和使用示例。"
+      "summary": "该项目整合了多种 AI 工具的系统提示和模型，适合开发者查阅和使用不同的 AI 资源，推动人工智能项目的发展。"
     },
     {
       "sourceId": "v2ex-hot",
       "title": "iPhone 17 / iPhone Air 怎么选？",
       "url": "https://www.v2ex.com/t/1220083",
-      "excerpt": "50 回复 · Apple 节点",
+      "excerpt": "52 回复 · Apple 节点",
       "publishedAt": "2026-06-13T00:30:30.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -163,7 +163,7 @@
       "sourceId": "v2ex-hot",
       "title": "Fable 真强到那种地步了吗？",
       "url": "https://www.v2ex.com/t/1220168",
-      "excerpt": "18 回复 · 程序员 节点",
+      "excerpt": "20 回复 · 程序员 节点",
       "publishedAt": "2026-06-13T08:42:17.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -296,6 +296,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？",
+      "url": "https://www.v2ex.com/t/1220180",
+      "excerpt": "6 回复 · Apple 节点",
+      "publishedAt": "2026-06-13T10:00:53.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "今天把 MacOS27 和 iPadOS27 都重置了一下，结果微信上不去了。",
       "url": "https://www.v2ex.com/t/1220030",
       "excerpt": "6 回复 · Apple 节点",
@@ -309,6 +318,15 @@
       "url": "https://www.v2ex.com/t/1193799",
       "excerpt": "6 回复 · Rust 节点",
       "publishedAt": "2026-02-24T09:26:47.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "有没有人有同感。。vibe coding 效率大增，但是给公司干活太亏了",
+      "url": "https://www.v2ex.com/t/1220177",
+      "excerpt": "5 回复 · 程序员 节点",
+      "publishedAt": "2026-06-13T09:31:29.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -349,28 +367,10 @@
       "source": "V2EX"
     },
     {
-      "sourceId": "v2ex-hot",
-      "title": "wgx 一个以性能优先 把 wireguard 网络转成 socks5 代理的工具",
-      "url": "https://www.v2ex.com/t/1214629",
-      "excerpt": "4 回复 · Linux 节点",
-      "publishedAt": "2026-05-22T02:36:23.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "3500 买了一个 macbook pro m1 16➕256，请问怎么验货比较好？",
-      "url": "https://www.v2ex.com/t/1220180",
-      "excerpt": "4 回复 · Apple 节点",
-      "publishedAt": "2026-06-13T10:00:53.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
       "sourceId": "linuxdo",
       "title": "「君の公益」限制调用客户端以及一些其他的说明",
       "url": "https://linux.do/t/topic/2392122",
-      "excerpt": "调用客户端限制为Claude code和codex ，可能会有bug或者波动，都是正常的，我会尽快处理，没处理就是在忙 gpt很快就会上来，在研究新的羊毛了，后面会实装关键词拦截，有的用户实在是太过分了，你搞黄色就算了，你搞有些不能碰的东西 我还没有富裕到给公益站上gpt pro 20x号池，抱歉 claude-sonnet-4-6 缓存价格已经回归正常，不小心弄错了 其余不变 我发现很多佬友对于我的渠道很感兴趣，在这里回应下吧（绝大部分都是逆向） tokens不问出处，渠道不问来路 328 个帖子 - 304 位参与者 阅读完整话题",
+      "excerpt": "调用客户端限制为Claude code和codex ，可能会有bug或者波动，都是正常的，我会尽快处理，没处理就是在忙 gpt很快就会上来，在研究新的羊毛了，后面会实装关键词拦截，有的用户实在是太过分了，你搞黄色就算了，你搞有些不能碰的东西 我还没有富裕到给公益站上gpt pro 20x号池，抱歉 claude-sonnet-4-6 缓存价格已经回归正常，不小心弄错了 其余不变 我发现很多佬友对于我的渠道很感兴趣，在这里回应下吧（绝大部分都是逆向） tokens不问出处，渠道不问来路 331 个帖子 - 307 位参与者 阅读完整话题",
       "publishedAt": "2026-06-13T03:53:42.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -413,6 +413,15 @@
     },
     {
       "sourceId": "linuxdo",
+      "title": "GLM 5.2测评：跻身第一梯队",
+      "url": "https://linux.do/t/topic/2394670",
+      "excerpt": "老规矩私有bench 案例都很不错 第三个在这个案例中做热力学图的模型，前两个是Mythos和3.5Flash 正如知乎nao榜所言，日后通过中转贩子使用opus的人，都需要面对一个问题，你用的opus如果是glm5.2冒充的，而且难以分辨。 在实际bot agent体验上，如果不是对opus4.6特别熟悉的人基本无法分辨出两者。并且其追随上文的能力很强。如果上文用的opus，继续用glm5.2根本无法分别。 其缺点目前来看，上下文注意力可能不如4.6强（说实在的比4.6强的也几乎没有）。这次上1M上下文盲猜的DS V4的技术落地，DSA的注意力只能说目前来看中规中矩而已。 不过真的恭喜智谱啊",
+      "publishedAt": "2026-06-13T10:10:10.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
       "title": "人到中年，喜得爱女，和佬友们分享喜悦",
       "url": "https://linux.do/t/topic/2392514",
       "excerpt": "楼主今年34了，怀孕时候，全家都想要个女儿，之前在私立医院做大排畸的时候，人家暗示是个男孩 ，还以为这辈子有个小棉袄的梦想破灭了（没有要二胎的想法），没想到生出来让我去确认的时候，是个女孩，真的是意外之喜，太开心了 ，把喜悦分享给各位佬友，也希望大家能够诸事顺遂，梦想成真 29 个帖子 - 23 位参与者 阅读完整话题",
@@ -431,19 +440,28 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "GLM 5.2测评：跻身第一梯队",
-      "url": "https://linux.do/t/topic/2394670",
-      "excerpt": "老规矩私有bench 案例都很不错 第三个在这个案例中做热力学图的模型，前两个是Mythos和3.5Flash 正如知乎nao榜所言，日后通过中转贩子使用opus的人，都需要面对一个问题，你用的opus如果是glm5.2冒充的，而且难以分辨。 在实际bot agent体验上，如果不是对opus4.6特别熟悉的人基本无法分辨出两者。并且其追随上文的能力很强。如果上文用的opus，继续用glm5.2根本无法分别。 其缺点目前来看，上下文注意力可能不如4.6强（说实在的比4.6强的也几乎没有）。这次上1M上下文盲猜的DS V4的技术落地，DSA的注意力只能说目前来看中规中矩而已。 不过真的恭喜智谱啊",
-      "publishedAt": "2026-06-13T10:10:10.000Z",
+      "title": "【压力太大，临时修复】【CHY公益站】上线claude-fable-5",
+      "url": "https://linux.do/t/topic/2391841",
+      "excerpt": "本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的项目是免费使用的，无收费（变相收费、赞助）部分： 是 我的帖子已经打上 公益推广 标签： 是 我的项目属于个人项目，与公司或商业机构无关： 是 我的项目不存在QQ、TG等群组引流： 是 我的项目不存在非运营必要的网站引流： 是 我的项目不存在为他人推广、AFF： 是 我的项目无关联的商业项目： 是 我的站点存在登录，并已接入 LINUX DO Connect： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色内容已",
+      "publishedAt": "2026-06-13T03:12:08.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "【压力太大，临时修复】【CHY公益站】上线claude-fable-5",
-      "url": "https://linux.do/t/topic/2391841",
-      "excerpt": "本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的项目是免费使用的，无收费（变相收费、赞助）部分： 是 我的帖子已经打上 公益推广 标签： 是 我的项目属于个人项目，与公司或商业机构无关： 是 我的项目不存在QQ、TG等群组引流： 是 我的项目不存在非运营必要的网站引流： 是 我的项目不存在为他人推广、AFF： 是 我的项目无关联的商业项目： 是 我的站点存在登录，并已接入 LINUX DO Connect： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色内容已",
-      "publishedAt": "2026-06-13T03:12:08.000Z",
+      "title": "这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬)",
+      "url": "https://linux.do/t/topic/2393676",
+      "excerpt": "我没看错吧，这个成绩应该真的能到Opus4.6Thinking了！！！A畜即将面临下架Fable的神罚！！！ LLM Benchmark Dashboard 这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬) 前沿快讯 这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬) 前沿快讯 越近，道德就离A​越近，达里奥的诅咒 智谱真是上市后猛猛发力啊，不像Minimax已经靠M3成为路边一条了，开源了都无人问津 65 个帖子 - 51 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-13T07:55:31.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
+      "title": "GLM-5.2能用了？",
+      "url": "https://linux.do/t/topic/2394094",
+      "excerpt": "GLM5.2(思考：max)天气卡片测试： 以 iOS 18 的设计风格做一个带有动画效果的天气卡片，要求是使用 HTML、CSS 和基础 JavaScript，使用横板天气页面（拥有 4 个天气卡片 (晴天，大风，暴雨，暴雪))。应足够美观，实现一定的交互效果。 22 个帖子 - 20 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-13T08:44:54.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -460,26 +478,8 @@
       "sourceId": "linuxdo",
       "title": "关于any+ccswitch+claude desktop code的另一种配置方法",
       "url": "https://linux.do/t/topic/2388951",
-      "excerpt": "这个方法适用于可以使用 至于具体切换是否需要在Claude重新调整（我想大概是要的 但是不麻烦） 首先就正常填写各项内容 无需模型映射 手动指定其实也无需 直接使用就行 路由也无需打开 打开Claude code（不好截图就不截图了） 选择 输入模型名称 可以参考我下面的 注意选 Offer 1M-context variant 然后Apply 最后记得选1M上下文的哦 47 个帖子 - 23 位参与者 阅读完整话题",
+      "excerpt": "这个方法适用于可以使用 至于具体切换是否需要在Claude重新调整（我想大概是要的 但是不麻烦） 首先就正常填写各项内容 无需模型映射 手动指定其实也无需 直接使用就行 路由也无需打开 打开Claude code（不好截图就不截图了） 选择 输入模型名称 可以参考我下面的 注意选 Offer 1M-context variant 然后Apply 最后记得选1M上下文的哦 50 个帖子 - 24 位参与者 阅读完整话题",
       "publishedAt": "2026-06-12T12:58:06.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
-      "title": "GLM-5.2能用了？",
-      "url": "https://linux.do/t/topic/2394094",
-      "excerpt": "GLM5.2(思考：max)天气卡片测试： 以 iOS 18 的设计风格做一个带有动画效果的天气卡片，要求是使用 HTML、CSS 和基础 JavaScript，使用横板天气页面（拥有 4 个天气卡片 (晴天，大风，暴雨，暴雪))。应足够美观，实现一定的交互效果。 21 个帖子 - 19 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-13T08:44:54.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
-      "title": "这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬)",
-      "url": "https://linux.do/t/topic/2393676",
-      "excerpt": "我没看错吧，这个成绩应该真的能到Opus4.6Thinking了！！！A畜即将面临下架Fable的神罚！！！ LLM Benchmark Dashboard 这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬) 前沿快讯 这次真的超过Opus4.6了？GLM5.2的实际工程编程测评成绩(Nao佬) 前沿快讯 越近，道德就离A​越近，达里奥的诅咒 智谱真是上市后猛猛发力啊，不像Minimax已经靠M3成为路边一条了，开源了都无人问津 65 个帖子 - 51 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-13T07:55:31.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -494,6 +494,15 @@
     },
     {
       "sourceId": "linuxdo",
+      "title": "【CHY服务器公益站】开站",
+      "url": "https://linux.do/t/topic/2395148",
+      "excerpt": "本帖使用社区公益推广，符合推广要求。我申明并遵循社区要求的以下内容： 我的项目是免费使用的，无收费（变相收费、赞助）部分： 是 我的帖子已经打上 公益推广 标签： 是 我的项目属于个人项目，与公司或商业机构无关： 是 我的项目不存在QQ、TG等群组引流： 是 我的项目不存在非运营必要的网站引流： 是 我的项目不存在为他人推广、AFF： 是 我的项目无关联的商业项目： 是 我的站点存在登录，并已接入 LINUX DO Connect： 是 我帖子内的项目介绍，AI生成、润色内容部分已截图发出： 是 以上选择我承诺是永久有效的，接受社区和佬友监督： 是 以下为项目介绍正文内容，AI生成、润色内容已",
+      "publishedAt": "2026-06-13T11:21:01.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
       "title": "这波我站智谱！不该有少数人享有！",
       "url": "https://linux.do/t/topic/2393557",
       "excerpt": "早上突然的不可用，让我后悔这2天没有好好利用起来。1点额度重置前都还没消耗掉，早上突然就没了！ 59 个帖子 - 44 位参与者 阅读完整话题",
@@ -503,10 +512,10 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "周六凌晨啦，还没睡的佬友，来报个到",
-      "url": "https://linux.do/t/topic/2390094",
-      "excerpt": "周五的夜，马上是周末了， 87 个帖子 - 83 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-12T16:09:09.000Z",
+      "title": "记一次对 Kimi K2.7 Code、Composer 2.5、Grok 4.3、Grok Build 0.1 的真实项目需求的横向评测（3 分钟直取 T1！）",
+      "url": "https://linux.do/t/topic/2390382",
+      "excerpt": "由于测试的模型越积越多了，表格会删除一些同厂商的旧模型，你可以在之前的评测帖子里找到它们的成绩。 项目 这是一个 Unity C# 项目，我进行测试的是一份皮肤系统需求案，我已经做了好预制体，而模型需要编写代码。 本轮与上两轮评测的项目和环境都完全一致： 第一轮 … 上一轮 模型来源 Kimi K2.7 Code: 官方 API Grok 4.3: Grok Build Grok Build 0.1: Grok Build Composer 2.5: Grok Build 速度 排名 模型 时间（分钟） 备注 1 Composer 2.5 3 2 Grok 4.20 0309 Reasonin",
+      "publishedAt": "2026-06-12T17:16:15.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -521,19 +530,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "GLM 5.2 测试",
-      "url": "https://linux.do/t/topic/2393290",
-      "excerpt": "支持 1M 上下文，不支持多模态，分为 high 与 Max 思考深度 天气卡： （点击了解更多详细信息） 截图： 2048 小游戏 （点击了解更多详细信息） 截图 Three.js 展示 （点击了解更多详细信息） 截图: 2048 与 Three.js 代码： Desktop.zip (31.1 KB) 小问题合集 1. 色盲问题 （点击了解更多详细信息） 回答： 1. 糖果问题 （点击了解更多详细信息） 回答： 42 个帖子 - 34 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-13T07:00:56.000Z",
+      "title": "周六凌晨啦，还没睡的佬友，来报个到",
+      "url": "https://linux.do/t/topic/2390094",
+      "excerpt": "周五的夜，马上是周末了， 87 个帖子 - 83 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-12T16:09:09.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "记一次对 Kimi K2.7 Code、Composer 2.5、Grok 4.3、Grok Build 0.1 的真实项目需求的横向评测（3 分钟直取 T1！）",
-      "url": "https://linux.do/t/topic/2390382",
-      "excerpt": "由于测试的模型越积越多了，表格会删除一些同厂商的旧模型，你可以在之前的评测帖子里找到它们的成绩。 项目 这是一个 Unity C# 项目，我进行测试的是一份皮肤系统需求案，我已经做了好预制体，而模型需要编写代码。 本轮与上两轮评测的项目和环境都完全一致： 第一轮 … 上一轮 模型来源 Kimi K2.7 Code: 官方 API Grok 4.3: Grok Build Grok Build 0.1: Grok Build Composer 2.5: Grok Build 速度 排名 模型 时间（分钟） 备注 1 Composer 2.5 3 2 Grok 4.20 0309 Reasonin",
-      "publishedAt": "2026-06-12T17:16:15.000Z",
+      "title": "GLM 5.2 测试",
+      "url": "https://linux.do/t/topic/2393290",
+      "excerpt": "支持 1M 上下文，不支持多模态，分为 high 与 Max 思考深度 天气卡： （点击了解更多详细信息） 截图： 2048 小游戏 （点击了解更多详细信息） 截图 Three.js 展示 （点击了解更多详细信息） 截图: 2048 与 Three.js 代码： Desktop.zip (31.1 KB) 小问题合集 1. 色盲问题 （点击了解更多详细信息） 回答： 1. 糖果问题 （点击了解更多详细信息） 回答： 42 个帖子 - 34 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-13T07:00:56.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -557,10 +566,10 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "【实战讨论】20 万行代码仓库测下来，国产大模型的差距真不在跑分上",
-      "url": "https://linux.do/t/topic/2388657",
-      "excerpt": "之前理解错了规则，已经按照规则编辑了，我与ai讨论产生的总结，拿来一起讨论。 24 个帖子 - 22 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-12T12:07:05.000Z",
+      "title": "猫猫头公益站的神秘礼物",
+      "url": "https://linux.do/t/topic/2391490",
+      "excerpt": "在猫猫头的公益站首页乱点，结果弹出了神秘礼物网站 然后 猫猫头最可爱了 @ByteBender 54 个帖子 - 47 位参与者 阅读完整话题",
+      "publishedAt": "2026-06-13T02:37:17.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -583,15 +592,6 @@
       "source": "LinuxDo"
     },
     {
-      "sourceId": "linuxdo",
-      "title": "猫猫头公益站的神秘礼物",
-      "url": "https://linux.do/t/topic/2391490",
-      "excerpt": "在猫猫头的公益站首页乱点，结果弹出了神秘礼物网站 然后 猫猫头最可爱了 @ByteBender 52 个帖子 - 45 位参与者 阅读完整话题",
-      "publishedAt": "2026-06-13T02:37:17.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
       "sourceId": "openai-news",
       "title": "New OpenAI Academy courses for the next era of work",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
@@ -599,7 +599,7 @@
       "publishedAt": "2026-06-12T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出三门新课程，旨在帮助人们构建实用的人工智能技能，并在日常工作中应用代理。"
+      "summary": "OpenAI推出三门新课程，旨在帮助人们建立实用的人工智能技能，创建可重复的工作流程，并在日常工作中应用代理。"
     },
     {
       "sourceId": "openai-news",
@@ -609,7 +609,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Preply与OpenAI合作推出AI生成的课程总结，提供个性化反馈和语言学习练习。"
+      "summary": "Preply利用OpenAI推出AI生成的课程总结，提供个性化反馈和语言学习练习。"
     },
     {
       "sourceId": "openai-news",
@@ -619,7 +619,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI支持欧盟的人工智能内容透明度行为准则，推动源头标准和工具的开发。"
+      "summary": "OpenAI支持欧盟在确保可信AI生态系统方面的工作，推进内容透明性代码实践。"
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "BBVA通过与OpenAI合作，将ChatGPT Enterprise扩展到10万名员工,加速全球人工智能驱动的银行转型。"
+      "summary": "BBVA与OpenAI合作，使AI成为银行业的核心，ChatGPT Enterprise扩展至100,000名员工，推动全球AI驱动的银行转型。"
     },
     {
       "sourceId": "openai-news",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI计划收购Ona，以扩大Codex的功能，从而支持持续的云环境和企业工作流程中的长期AI代理。"
+      "summary": "OpenAI计划收购Ona，以扩展Codex并实现安全、持久的云环境，支持企业工作流中的长期AI代理。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "天体物理学家Chi-kwan Chan利用Codex构建黑洞模拟，帮助科学家研究极端物理现象。"
+      "summary": "天体物理学家Chi-kwan Chan利用Codex构建黑洞模拟，帮助科学家研究极端物理和验证爱因斯坦的广义相对论。"
     },
     {
       "sourceId": "openai-news",
@@ -659,7 +659,7 @@
       "publishedAt": "2026-06-10T20:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "用户可通过Oracle云访问OpenAI模型和Codex，利用现有承诺构建和部署安全的人工智能。"
+      "summary": "通过Oracle云服务，访问OpenAI模型和Codex，利用现有承诺构建和部署具备企业安全和治理的AI。"
     },
     {
       "sourceId": "openai-news",
@@ -1146,7 +1146,7 @@
       "publishedAt": "2026-06-12T15:56:10.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "olmo-eval是一个用于模型开发循环的评估工具。"
+      "summary": "olmo-eval为模型开发循环提供了评估工作台。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1156,7 +1156,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "PyTorch中的Profiling（第二部分）：从nn.Linear到融合的MLP。"
+      "summary": "PyTorch中的剖析（第二部分）：从nn.Linear到融合的MLP。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1416,10 +1416,10 @@
       "url": "https://huggingface.co/papers/2606.13681",
       "excerpt": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dynamic, requiring agents to continually align their knowledge, skills, and behavior with changing envir",
       "publishedAt": "2026-06-11T00:00:00.000Z",
-      "meta": "👍 114",
+      "meta": "👍 115",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出一个名为 EvoArena 的框架，以便在动态环境中追踪大型语言模型（LLM）代理的内存演变。该方法通过持续调整知识和行为，使 LLM 能够适应实际应用中的动态变化。实验表明，该框架在复杂环境中有效提升了代理的适应性和性能。"
+      "summary": "EvoArena 提出了针对动态环境中大型语言模型（LLM）代理的内存进化跟踪方法，以提高其在真实世界中的适应能力。通过将知识、技能与环境变化相结合，训练代理在多变的环境中有效运作，从而提升了 LLM 的实际应用能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1430,7 +1430,7 @@
       "meta": "👍 94",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出 MiniMax Sparse Attention 方法，以解决前沿 LLM 在处理超长上下文时的计算挑战。该方法利用稀疏注意力机制，显著降低了软最大注意力的二次复杂度，使模型能够在数十万到数百万个标记上高效联合注意。"
+      "summary": "MiniMax Sparse Attention 针对超长上下文问题提出了一种稀疏注意力机制，显著降低了在大量 token 下的计算成本。该方法通过优化软最大化注意力计算，提升了在前沿大型语言模型中的应用效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1441,7 +1441,7 @@
       "meta": "👍 92",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "WeaveBench 引入了一个全新的长时间标杆，专门用于评估计算机使用代理（CUAs）在多种交互界面下的综合能力。该基准旨在解决现有方法无法有效整合跨接口能力的问题，推动 CUAs 的长期目标规划和跨界协作能力提升。"
+      "summary": "WeaveBench 引入了一种新的长时间跨度基准，专注于计算机使用代理在混合界面上的性能评估。通过整合视觉桌面控制与命令行执行等多种接口，旨在提升代理的跨界炫示能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1452,7 +1452,7 @@
       "meta": "👍 80",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "SpatialClaw 针对视觉语言模型（VLMs）在空间推理任务中的局限性提出新方法，通过重新设计动作接口来提升3D空间中物体关系的理解能力。研究表明，该方法在改善推理精度方面表现突出。"
+      "summary": "SpatialClaw 重新定义了空间推理的行动接口，通过集成特定感知模块增强了视觉语言模型（VLM）的能力。这一方法显著改善了 VLM 在三维环境中对物体关系和运动的理解效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1463,7 +1463,7 @@
       "meta": "👍 74",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "InterleaveThinker 旨在通过交织生成提升图像生成器的能力，克服现有生成架构在文本-图像序列生成上的限制。该方法在视觉叙事等应用中表现出色，提升了整体生成质量和交互性。"
+      "summary": "InterleaveThinker 提出了增强的交错生成方法，克服了现有图像生成器在文本与图像序列生成中的限制，该方法在视觉叙事任务中具有关键应用，使得生成过程更具连贯性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1474,7 +1474,7 @@
       "meta": "👍 73",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Robust-U1 探索多模态大型语言模型（MLLMs）在真实世界下视觉内容受损后的恢复能力。通过提出自恢复机制，该方法显著提升了对视觉内容损坏的理解能力，增强调适应性和鲁棒性。"
+      "summary": "Robust-U1 研究了多模态大型语言模型在视觉理解中的自我恢复能力，针对真实视觉破坏提高了模型的鲁棒性。相较于现有方法，该研究提出了更具解释性和有效性的解决方案。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1485,7 +1485,7 @@
       "meta": "👍 71",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "FORT-Searcher 通过合成抗捷径搜索任务来训练深度搜索代理。该方法针对现有合成方法存在的局限，设计出更具现实性的问题，提升了搜索代理在处理复杂问题时的有效性和可靠性。"
+      "summary": "FORT-Searcher 通过合成抗捷径搜索任务，提升深度搜索代理的训练有效性。该方法在合成问题的可靠性和复杂度上取得了平衡，使得 search agents 更加高效。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1496,7 +1496,7 @@
       "meta": "👍 50",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "LabVLA 旨在将视觉-语言-行动模型（VLA）与科学实验室的实际应用相结合，以增强实验推理能力。该模型能够帮助研究人员在科学实验中更高效地生成假设和制定实验方案。"
+      "summary": "LabVLA 将视觉-语言-动作模型与科学实验室结合，旨在提升 AI 系统对实验的推理能力。该方法增强了模型处理实验设计时的自动化能力，推动科学发现的自动化进程。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1507,7 +1507,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "HYDRA-X 提出了一种统一的多模态模型，该模型通过整体视觉标记器实现图像和视频的统一标记。该方法有效提升了多模态模型的表示能力和应用范围，是统一多模态建模的重要进展。"
+      "summary": "HYDRA-X 提出了首个统一多模态模型（UMM），通过全局视觉标记器将图像和视频整合到一个 Vision Transformer 中，提升了多模态输入的表示能力，推动了视觉理解的前沿。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1518,7 +1518,7 @@
       "meta": "👍 22",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "N-GRPO 提出了嵌入级邻域混合方法，以增强策略优化的有效性。该研究解决了现有技术生成冗余轨迹的问题，并通过多样化路径构建提高了数学推理的成功率。"
+      "summary": "N-GRPO 通过嵌入级邻域混合优化策略，提高了大语言模型在数学推理中的表现，使得生成能力更加多样化和有效，改善了路径的多样性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1529,7 +1529,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "EurekAgent 表示 LLM 驱动的自主科学发现潜力日益增强，能够提出并验证科学解决方案。该方法在特定环境下实现了超越传统人类设计的方法的效果，展现出优越的适应性和效率。"
+      "summary": "EurekAgent 针对自主科学发现提出了一种全新的环境工程方法，通过优化可执行的指标，显著提升了 LLM 代理的科学解决方案迭代速度，超越了人工设计的方法。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1540,7 +1540,7 @@
       "meta": "👍 18",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Demystifying Hidden-State Recurrence 通过切换潜在推理机制来优化现有的标准基于策略的强化学习（RL），提高了模型的可解释性和优化能力，促进了推理过程的深入理解。"
+      "summary": "Demystifying Hidden-State Recurrence 提出了可切换的潜在推理框架，利用在线强化学习优化了潜在链式推理，增强了对因果关系的解释能力，提高了模型的可优化性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1551,7 +1551,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "DyCo-RL 提出了动态跨模态协调方法，旨在提高多模态大型语言模型（MLLMs）的视觉推理能力。该方法关注细粒度的跨模态协调，增强了推理的准确性与一致性。"
+      "summary": "DyCo-RL 提出了动态跨模态协调方法以增强多模态大型语言模型的视觉推理能力，该方法解决了现有方法在细粒度跨模态协作中的不足，提升了解决复杂推理任务的性能。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1562,7 +1562,7 @@
       "meta": "👍 14",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "VIA-SD 提出了一种通过内部模型路由进行验证的方法，旨在降低大规模语言模型（LLMs）的推理成本。该方法改进了草拟-验证流程，提高了模型处理候选令牌的灵活性和效率。"
+      "summary": "VIA-SD 引入了一种内部模型路由的验证方法，以解决推测解码（SD）的高推理成本问题。该方法利用并行验证提供了更灵活的决策依据，从而提升了解码效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1573,7 +1573,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "该论文探讨了从 2D 网格到 1D 令牌的转换，提高了多模态图像融合的性能。通过建立共享表示，该方法有效整合了不同模态的信息，优化了局部细节与一致外观之间的平衡。"
+      "summary": "From 2D Grids to 1D Tokens 提出了融合多模态图像的新方法，通过将共享表示从二维特征网格转化为一维 token，有效提高了信息融合的细节保留和一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1584,7 +1584,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "TreeSeeker 研究了一种树形结构试验与反馈的深度搜索策略，旨在帮助代理在复杂搜索中做出更合理的决策。该方法提升了信息整合能力，有效避免盲目搜索的风险。"
+      "summary": "TreeSeeker 开发了一种树结构试验和回报策略，当需要通过多步骤网络搜索回答复杂问题时，提供了更具灵活性的搜索决策，提升了代理的有效性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1595,7 +1595,7 @@
       "meta": "👍 10",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "MoVerse 提出了一种实时视频世界建模技术，利用单一狭视图图像创建可互动的场景。该方法克服了仅从有限视角获取信息的挑战，有助于全面理解和探索周围环境。"
+      "summary": "MoVerse 通过全景高斯支架，实现了基于单一狭窄视场图像的实时视频世界建模，克服了仅有小部分环境观察时的挑战，提升了动态场景的交互体验。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1606,7 +1606,7 @@
       "meta": "👍 9",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "HarnessBridge 提出了可学习的双向控制器，旨在优化大型语言模型（LLM）作为代理的表现。该方法提升了代理与环境之间的交互效率，克服了现有手动设计的局限性。"
+      "summary": "HarnessBridge 提出了可学习的双向控制器，以优化大型语言模型在长时间任务中的表现，通过改善代理与环境的交互设计，增强了模型的适应性与效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1617,7 +1617,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "该研究针对语言模型（LLMs）进行对抗鲁棒性评估，强调了在不同查询预算下攻击成功率的多样性。提出了更有成本意识的评估标准，有助于在实际应用中有效分配计算资源。"
+      "summary": "Risk Under Pressure 研究了语言模型的对抗鲁棒性评估，引入了计算成本的考量，以提升评估的实际意义，反映不同攻击策略的真实需求差异。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1628,7 +1628,7 @@
       "meta": "👍 7",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "Visual Para-Thinker++ 提出了一个单策略多代理框架，旨在提升视觉推理的能力。该方法通过整合多样化的线索和证据，有效减轻了单链推理中的早期感知承诺和幻觉问题。"
+      "summary": "Visual Para-Thinker++ 提出了单政策多代理框架，旨在提升视觉推理能力，通过共享政策整合分散的信息，使得推理过程更加有效与可靠。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1738,7 +1738,7 @@
       "publishedAt": "2026-06-12T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "OpenAI收购Ona，Antropic进行回撤，Xiaomi的MiMo代码被提及。"
+      "summary": "OpenAI收购Ona，Anthropic调整策略，小米发布MiMo代码。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1748,7 +1748,7 @@
       "publishedAt": "2026-06-11T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Dario Amodei政策、DiffusionGemma和WhatsApp解除对机器人的封锁被提及。"
+      "summary": "Dario Amodei政策，DiffusionGemma，WhatsApp解除机器人封锁。"
     },
     {
       "sourceId": "tldr-ai",
@@ -2190,7 +2190,7 @@
       "publishedAt": "2026-06-13T04:30:52.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Fable和Mythos的发布被认为过于危险，表明当前处于非常规的时间线中。"
+      "summary": "Fable和Mythos被认为过于危险而无法发布，当前处于最奇怪的时间线。"
     },
     {
       "sourceId": "latent-space",
@@ -2200,7 +2200,7 @@
       "publishedAt": "2026-06-12T05:34:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "在安静的一天，我们突出了Peter Steinberger、Boris Cherny和Andrej Karpathy的一个重要概念。"
+      "summary": "在一个安静的日子里，Highlight了Peter Steinberger、Boris Cherny和Andrej Karpathy的一个优秀概念。"
     },
     {
       "sourceId": "latent-space",
@@ -2210,7 +2210,7 @@
       "publishedAt": "2026-06-11T03:14:26.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "在安静的一天，我们反思了关于开放模型和模型实验室的重要文章。"
+      "summary": "在一个安静的日子里，回顾了一篇精彩的作文。"
     },
     {
       "sourceId": "latent-space",
@@ -2373,7 +2373,7 @@
       "publishedAt": "2026-06-11T11:00:45.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "Google DeepMind资助研究，关注数百万AI代理在线互动可能带来的潜在危险。"
+      "summary": "谷歌DeepMind资助研究，以探讨数百万不同AI代理相互作用的潜在危险。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2465,7 +2465,7 @@
       "category": "tech",
       "meta": "@aiedge_ · 69.5K 粉丝 · 700.1K 阅 · 506 赞 · 68 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Anthropic 发布了针对其强大 AI 模型的官方提示手册，博主进行了翻译和解读。此指南埋藏在 API 文档中，大部分人不会仔细阅读，内容涉及如何有效地使用提示。"
+      "summary": "Anthropic 发布了官方提示手册，专门为地球上最强大的 AI 模型提供指导。该手册内容在 API 文档中较为隐蔽，许多人可能不会仔细阅读，因此该博主进行了翻译，便于分享给更多人。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2476,7 +2476,7 @@
       "category": "tech",
       "meta": "@dhaber · 50.0K 粉丝 · 497.3K 阅 · 500 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "AI 正在改变工作方式，许多工作讨论现在默认被记录。博主探讨这个话题的复杂性及其在公司内部的禁忌性，引发对隐私和沟通的深思。"
+      "summary": "AI 正在改变工作方式，其中一个显著趋势是大多数工作讨论默认被录音。虽然这一点在公司内是个禁忌话题，但它显然在逐渐成为新的常态。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2487,7 +2487,7 @@
       "category": "tech",
       "meta": "@Recursive_SI · 6.3K 粉丝 · 465.1K 阅 · 516 赞 · 71 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Recursive 发布了其自动化 AI 研究系统的早期结果，专注于模型训练和 GPU 核心基准测试。这些初步结果展示了该系统在研究效率上的潜力。"
+      "summary": "Recursive 的自动化 AI 研究系统首次发布了模型训练和 GPU 内核基准测试的早期结果。这项进展标志着向自动化 AI 研究的迈出了一大步，显示出新技术的潜力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2498,7 +2498,7 @@
       "category": "tech",
       "meta": "@0xCodez · 6.4K 粉丝 · 371.8K 阅 · 515 赞 · 56 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主以 14 步骤介绍如何构建自我改进的代理系统，并指出许多用户忽略了 Claude Fable 5 的代理模式，只是简单使用。强调了动态工作流的重要性。"
+      "summary": "虽然许多人使用 Claude Fable 5，认为它和 Sonnet 4.6 功能相似，但大部分用户未能体验过真正的智能代理系统。博主详细介绍了如何构建自我改进的代理系统。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2509,7 +2509,7 @@
       "category": "tech",
       "meta": "@0x_rody · 1.7K 粉丝 · 193.2K 阅 · 513 赞 · 72 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主分享了如何在 Claude Code 中实现自我改进循环的具体步骤，解析了常见问题与解决方案，旨在帮助用户更有效地实现代码迭代。"
+      "summary": "通过具体实例，该博主向读者展示了如何在 Claude Code 中建立自我改进的循环。内容涉及错误修复和调试流程，适合希望深入了解智能编程界面的用户。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2520,7 +2520,7 @@
       "category": "tech",
       "meta": "@BrainsAndTennis · 10.5K 粉丝 · 187.4K 阅 · 539 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主探讨如何构建一个在特定领域表现卓越的代理，强调标准化的基本原则，并讨论客户为何会选择更好的代理。"
+      "summary": "构建高效的垂直代理需要掌握基本的标准化流程。博主分享了在特定领域建设有效代理的技巧，强调持续迭代的重要性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2531,7 +2531,7 @@
       "category": "tech",
       "meta": "@TheAhmadOsman · 61.0K 粉丝 · 74.9K 阅 · 507 赞 · 98 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主分析了 Anthropic 在开源 AI 上的态度，表面上希望保持安全和控制，但实际上存在多种不一致之处，带来对其目的的质疑。"
+      "summary": "Anthropic 在开源 AI 上的策略引发了公众关注，试图通过安全实验室等形象展现其在规范 AI 发展方面的责任与审慎态度。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2542,7 +2542,7 @@
       "category": "tech",
       "meta": "@coinbase · 7.0M 粉丝 · 72.8K 阅 · 500 赞 · 62 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Coinbase 为 AI 代理提供了新功能，允许其直接连接到用户的 Coinbase 账户，实现交易、支付和工作流的执行，此功能在今日上线，用户可控制相关限制。"
+      "summary": "Coinbase for Agents 现已正式上线，允许 AI 代理直接连接用户的 Coinbase 账户，从而在用户设定的限制内进行交易及执行工作流。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2553,7 +2553,7 @@
       "category": "tech",
       "meta": "@RayDalio · 2.2M 粉丝 · 72.6K 阅 · 515 赞 · 93 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主探讨了在人工智能与人类智能fusion背景下如何有效进行决策，分享了其在计算机化投资决策中的经验和思考。"
+      "summary": "随着人类智能与人工智能的逐渐融合，博主探讨了如何以有效的方式进行决策，强调建立基于原则的思维方式的重要性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2564,7 +2564,7 @@
       "category": "tech",
       "meta": "@ORACLEAIFND · 31.9K 粉丝 · 63.6K 阅 · 1.5K 赞 · 563 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "到 2026 年，自动化 AI 代理已成为预测市场中最有效的策略之一，博主提到超过 30% 的 Polymarket 活动由算法和 AI 驱动的钱包产生。"
+      "summary": "到2026年，自主 AI 代理在预测市场中将成为有效策略，超过30%的交易活动来自算法和 AI 驱动的钱包，这反映了 AI 在金融领域的广泛应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2575,7 +2575,7 @@
       "category": "tech",
       "meta": "@OracleTrdading · 39.7K 粉丝 · 61.5K 阅 · 1.5K 赞 · 577 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "到 2026 年，自动化 AI 代理在预测市场中逐渐成为主流，博主指出超 30% 的 Polymarket 活动源于算法驱动的钱包，显示了此趋势的增长。"
+      "summary": "自主 AI 代理将在未来预测市场中占据重要地位，大约30%的市场活动由算法驱动的钱包生成，这显示出 AI 转型的趋势。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2586,7 +2586,7 @@
       "category": "tech",
       "meta": "@OracleTrdade · 41.7K 粉丝 · 60.6K 阅 · 1.5K 赞 · 560 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "2026 年，自动化 AI 代理在预测市场的影响力日益增强，博主提到这些代理占据了超 30% 的 Polymarket 交易活动，反映出技术的普及。"
+      "summary": "随着自主 AI 代理的发展，到2026年其在预测市场的影响将显著提升，超过三成的交易由 AI 钱包完成，证实了技术的成功应用。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2597,7 +2597,7 @@
       "category": "tech",
       "meta": "@OracleMarkett · 45.0K 粉丝 · 60.1K 阅 · 1.5K 赞 · 568 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主指出，预计到 2026 年，自动化 AI 代理将在预测市场中占据重要位置，超 30% 的活动来自 AI 驱动的钱包，显示出市场渗透的潜力。"
+      "summary": "2026年，预测市场将由自主 AI 代理主导，AI 驱动的钱包将在市场中占据重要份额，显示出 AI 在金融交易中的优势。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2608,7 +2608,7 @@
       "category": "tech",
       "meta": "@elvissun · 45.0K 粉丝 · 42.0K 阅 · 502 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主分享了使用 /goal 和损失函数在 30 小时内提炼产品的方法，强调大多数人使用不当，特别是在生成自主代理方面，需正确理解提示。"
+      "summary": "博主指出，99%的人错误使用 /goal 和循环，强调正确的引导方式与高效运行代码的重要性，提供了全面的操作指南。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2619,7 +2619,17 @@
       "category": "tech",
       "meta": "@leerob · 258.6K 粉丝 · 36.8K 阅 · 586 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Cursor 通过数千个代理帮助其训练下一个版本的 Composer，博主分享了代理在研究任务中的表现，以及如何与团队沟通解决问题。"
+      "summary": "在 Cursor 的运营中，数千个代理被用于训练 Composer 的下一版本，博主分享了在遇到问题时如何通过 Slack 与代理沟通解决方案的流程。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Can Tech Justify a Trillion-Dollar Valuation?",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/can-tech-justify-a-trillion-dollar-valuation-video",
+      "excerpt": "The long-awaited SpaceX IPO tested the limits of modern capital markets, and is expected to be followed by OpenAI and Anthropic. Investor Steve Rattner says the scale of the valuations and fundraising involved is unprecedented, simultaneously reflecting optimism about artificial intelligence and a b",
+      "publishedAt": "2026-06-13T12:04:13.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX的首次公开募股测试了现代资本市场的极限，预计OpenAI和Anthropic也将相继上市。投资者史蒂夫·拉特纳表示，涉及的估值和筹资规模前所未有，反映了对人工智能的乐观预期。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2629,7 +2639,7 @@
       "publishedAt": "2026-06-13T12:00:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "SpaceX即将进入共同基金或401(k)市场，显示华尔街对埃隆·马斯克的持续追捧。"
+      "summary": "SpaceX的首次公开募股将使更多投资者能够接触到这一重要资产。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2639,7 +2649,17 @@
       "publishedAt": "2026-06-13T12:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "谷歌进行搜索引擎的人工智能改造，本周对谷歌和北美世界杯来说都是重要的一周。"
+      "summary": "谷歌搜索进行了人工智能改造，同时世界杯将于明年在北美举办，这是一周的大新闻。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "There’s a Bug in the Gold Trade as Miners Move Like Meme Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/there-s-a-bug-in-the-gold-trade-as-miners-move-like-meme-stocks",
+      "excerpt": "Brian Laks has been investing in gold stocks for over a decade. To the deep-value investor, they serve as a hedge against volatility in the rest of his portfolio, a haven during geopolitical uncertainty and deliver steady returns.",
+      "publishedAt": "2026-06-13T12:00:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Brian Laks投资黄金股票已有十年，认为黄金股票对其投资组合的波动提供了对冲，并在地缘政治不确定性中提供稳定回报。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2658,7 +2678,7 @@
       "publishedAt": "2026-06-13T11:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "私募市场所面临的问题更多来自于公众认知而非实际挑战。"
+      "summary": "私募市场的问题更多是出于公众的看法而非实际情况。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2668,7 +2688,7 @@
       "publishedAt": "2026-06-13T10:19:34.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国摩托车行业协会呼吁企业遏制价格战，专注于高质量增长，警告模仿和同质化产品正在挤压利润。"
+      "summary": "中国摩托车行业协会呼吁企业控制价格战，专注于高质量增长，警告模仿及同类产品泛滥正在挤压利润，损害中国制造的声誉。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2678,7 +2698,7 @@
       "publishedAt": "2026-06-13T09:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "马迪斯·穆勒在结束在爱沙尼亚中央银行的七年任期后，准备以志愿警察的身份为刑事调查单位服务。"
+      "summary": "前欧洲中央银行利率制定者马迪斯·穆勒在结束七年任职后，准备在警方的刑事调查部门自愿服务。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2688,7 +2708,7 @@
       "publishedAt": "2026-06-13T08:23:17.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "德国联邦银行行长约阿希姆·纳格尔表示，即使伊朗冲突尽快结束，物价仍可能维持在高位。"
+      "summary": "德意志联邦银行行长约阿希姆·纳格尔表示，即使伊朗冲突很快结束，物价仍可能保持高位。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2697,8 +2717,7 @@
       "excerpt": "A conversation with the founder of AMP PBC about turning GPUs into a utility.",
       "publishedAt": "2026-06-13T08:00:15.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "AMP PBC创始人安杰尼·米达讨论了将GPU转变为公共事业的计划，旨在显著降低计算成本。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2877,24 +2896,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-06-12/matt-holt-said-to-near-12-billion-deal-for-ensemble-health",
       "excerpt": "Private-equity executive Matt Holt’s investment firm Thoreau Group is in advanced talks to acquire Ensemble Health Partners in a deal valuing the company at about $12 billion, according to people familiar with the matter.",
       "publishedAt": "2026-06-12T20:34:14.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "SpaceX IPO Whips Musk Fans Into Frenzy",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-12/spacex-ipo-whips-musk-fans-into-frenzy-video",
-      "excerpt": "Bloomberg's Nikki Waller joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Shares of SpaceX climbed in their first day of trading on Friday following a $75 billion IPO that smashed records (Source: Bloomberg)",
-      "publishedAt": "2026-06-12T19:24:08.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Ice Cube: Ready To Take BIG3 to the Next Level",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-12/ice-cube-ready-to-take-big3-to-the-next-level-video",
-      "excerpt": "Rapper & Co-Founder of Big3 league Ice Cube, discusses the league preparing to go public after a $290 million valuation. He discusses the early days of the league, how the fans have really embraced it, and what it means to be the first publicly traded sports league. He speaks with Romaine Bostick & ",
-      "publishedAt": "2026-06-12T20:55:24.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -3086,7 +3087,7 @@
       "publishedAt": "2026-06-13T10:00:04.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "投资公司Lionheart Capital与Keo Energy联合成立上市公司，计划在委内瑞拉追求资产，市值高达1000亿美元。"
+      "summary": "Lionheart Capital与Keo Energy成立纳斯达克上市公司，计划在委内瑞拉寻求1000亿美元的石油资产。"
     },
     {
       "sourceId": "ft-companies",
@@ -3096,7 +3097,7 @@
       "publishedAt": "2026-06-13T10:00:04.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "巴黎与柏林的联合项目失败，引发外界对两国能否独立完成国防的质疑。"
+      "summary": "巴黎和柏林的联合项目破裂，引发两国是否能单独完成国防任务的质疑。"
     },
     {
       "sourceId": "ft-companies",
@@ -3106,7 +3107,7 @@
       "publishedAt": "2026-06-13T10:00:04.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "华尔街成功推动SpaceX进行历史上最大规模的首次公开募股，投资者被鼓励相信未来前景并忽视巨额损失。"
+      "summary": "华尔街成功为SpaceX完成历史上最大规模的首次公开募股，银行家们说服投资者相信科幻策略，忽视巨额亏损，完全控制权交给埃隆·马斯克。"
     },
     {
       "sourceId": "ft-companies",
@@ -3116,7 +3117,7 @@
       "publishedAt": "2026-06-13T09:48:05.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "英国建筑公司Vistry为员工提供自愿裁员方案，旨在保留现金应对市场放缓。"
+      "summary": "英国建筑公司Vistry为员工提供自愿裁员方案，以保护现金流应对市场放缓。"
     },
     {
       "sourceId": "ft-companies",
@@ -3125,8 +3126,7 @@
       "excerpt": "Also in today’s newsletter: a dispatch from LA and Mercedes F1’s robust finances",
       "publishedAt": "2026-06-13T08:00:03.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "今日新闻简报中提到洛杉矶的世界杯美元及梅赛德斯F1强劲的财务状况。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3856,7 +3856,7 @@
       "publishedAt": "2026-06-13T11:15:18.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "以色列对黎巴嫩发动空袭，正值伊朗外长表示与美国的协议接近达成之际。"
+      "summary": "以色列针对黎巴嫩展开空袭，同时伊朗外长声称与美国达成和平协议即将实现。"
     },
     {
       "sourceId": "bbc-world",
@@ -3866,7 +3866,7 @@
       "publishedAt": "2026-06-13T11:47:42.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "瑞士人民党提议在全国投票决定将人口上限设定为1000万，支持者称其为“可持续性倡议”，而反对者认为此计划将导致混乱。"
+      "summary": "瑞士人民党提议限制人口至1000万的计划，被认为是‘可持续发展倡议’，但反对者批评这一方案可能导致混乱。"
     },
     {
       "sourceId": "bbc-world",
@@ -4257,9 +4257,9 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
-      "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
-      "excerpt": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’ Antarctica’s west coast is missing an area of winter sea ice the size of France, sparking concerns for threatened penguins other marine life and global sea levels",
+      "title": "NDIS changes ‘retrogressive’ and out of step with review, MPs say",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/13/ndis-changes-retrogressive-and-out-of-step-with-review-mps-say",
+      "excerpt": "Report by Labor-led joint human rights committee says cuts to the $50bn scheme could limit support for those in need Get our breaking news email, free app or daily news podcast Sweeping changes to the NDIS appear “retrogressive” and lack alignment with a landmark independent review to improve the $5",
       "publishedAt": "2026-06-12T15:00:48.000Z",
       "category": "politics",
       "source": "The Guardian"
@@ -4380,17 +4380,17 @@
       "publishedAt": "2026-06-13T12:11:08.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "加拿大影视行业不再满足于仅仅作为“北方好莱坞”，而是开始主张自身的叙事权，展现本土故事。"
+      "summary": "加拿大影视产业在加拿大片影奖上积极发声，试图摆脱被称为“北好莱坞”的标签，展现自身特色与故事。"
     },
     {
       "sourceId": "nyt-world",
       "title": "Iran War Live Updates: Mediator Says Peace Deal Could be Finalized Within 24 Hours",
       "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel",
       "excerpt": "The prime minister of Pakistan, a key intermediary between the U.S. and Iran, said a deal was “likely expected.” Officials on each side have also expressed optimism, but it still could be derailed.",
-      "publishedAt": "2026-06-13T12:10:04.000Z",
+      "publishedAt": "2026-06-13T12:24:33.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "巴基斯坦总理表示美伊之间的和平协议“可能在24小时内达成”，尽管各方官员对协议持乐观态度，但仍存在被搁置的可能性。"
+      "summary": "巴基斯坦总理表示，美国与伊朗之间的和平协议在24小时内有望达成，双方官员都表现出乐观态度，但协议或许会受到阻碍。"
     },
     {
       "sourceId": "nyt-world",
@@ -4399,8 +4399,7 @@
       "excerpt": "A strike this week in Venezuela killed a gang leader known as Niño Guerrero who was wanted in the United States, officials in both countries said.",
       "publishedAt": "2026-06-13T10:07:20.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "美国与委内瑞拉官员称，本周在委内瑞拉的一次联合行动中，贩毒集团头目“尼尼奥·格雷罗”被击毙。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4479,10 +4478,9 @@
       "title": "Here’s the latest.",
       "url": "https://www.nytimes.com/live/2026/06/13/world/iran-war-trump-us-israel/heres-the-latest",
       "excerpt": "",
-      "publishedAt": "2026-06-13T12:10:03.000Z",
+      "publishedAt": "2026-06-13T12:13:24.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "暂无最新消息。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4491,8 +4489,7 @@
       "excerpt": "We like it when projects are completed, but what if we could abide comfortably in the toiling and striving it takes to get them there?",
       "publishedAt": "2026-06-13T10:12:28.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "完成项目固然重要，但如果我们能够舒适地接受其进行过程中的努力与奋斗，该何去何从？"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4508,7 +4505,7 @@
       "title": "The Scientific Quest for Perfect World Cup Pitch",
       "url": "https://www.nytimes.com/2026/06/13/science/world-cup-grass-pitch.html",
       "excerpt": "Every match must be played on natural grass that gives players as consistent a surface as possible, no matter the venue. Cue the years of sod studies.",
-      "publishedAt": "2026-06-13T09:02:15.000Z",
+      "publishedAt": "2026-06-13T12:18:56.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4637,7 +4634,7 @@
       "publishedAt": "2026-06-13T11:39:31.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "特朗普总统出发前往法国参加第52届七国集团峰会，伊朗战争持续主导全球议题。"
+      "summary": "特朗普总统前往法国参加第52届G7峰会，而伊朗战争仍占据全球讨论的中心。"
     },
     {
       "sourceId": "npr-world",
@@ -4722,13 +4719,23 @@
     },
     {
       "sourceId": "dw-chinese",
+      "title": "王沪宁：两岸一家亲 陆委会：欺骗手法",
+      "url": "https://www.dw.com/zh/王沪宁：两岸一家亲-陆委会：欺骗手法/a-77535755?maca=chi-rss-chi-all-1127-rdf",
+      "excerpt": "在6月13日于厦门举行的海峡论坛会议上，中国全国政协主席王沪宁强调两岸同属“一个中国”，并称“广大台湾乡亲克服阻碍踊跃参与会议、与大陆同胞共叙亲情”。台湾陆委会则回应说，这是北京对台湾的“假融合、真施压”的欺骗手法。",
+      "publishedAt": "2026-06-13T11:57:00.000Z",
+      "category": "politics",
+      "source": "DW 中文",
+      "summary": "中国全国政协主席王沪宁在厦门海峡论坛上强调两岸同属‘一个中国’，台湾陆委会则表示这是北京对台湾的‘假融合、真施压’之手法。"
+    },
+    {
+      "sourceId": "dw-chinese",
       "title": "歐盟庇護新制上路 加速難民審查",
       "url": "https://www.dw.com/zh/歐盟庇護新制上路-加速難民審查/a-77536903?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "歐盟正式啟動新的庇護制度，未來部分庇護申請人將在邊境先接受審查並加快處理。這項改革旨在結束歐盟國家之間長達多年的爭議。",
       "publishedAt": "2026-06-13T10:45:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "欧盟正式启动新庇护制度，将加速部分庇护申请人的审查，旨在解决成员国之间的长期争议。"
+      "summary": "欧盟正式启动新的庇护制度，部分庇护申请人将在边境接受加速审查，旨在解决多年争议。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4737,8 +4744,7 @@
       "excerpt": "委内瑞拉黑帮团伙\"阿拉瓜列车\"头目弗洛雷斯在一次联合行动中被击毙。特朗普政府多次指控该黑帮是美国多个城市暴力事件和毒品交易的幕后主谋。",
       "publishedAt": "2026-06-13T10:03:00.000Z",
       "category": "politics",
-      "source": "DW 中文",
-      "summary": "委内瑞拉黑帮团伙“阿拉瓜列车”的头目弗洛雷斯在一次联合行动中被击毙，此团伙曾被特朗普政府指控为多起美国城市暴力和毒品交易的幕后主谋。"
+      "source": "DW 中文"
     },
     {
       "sourceId": "dw-chinese",
@@ -4877,15 +4883,6 @@
     },
     {
       "sourceId": "dw-chinese",
-      "title": "FBI查获13个网站 被控征募美国人为中国提供情报",
-      "url": "https://www.dw.com/zh/fbi查获13个网站-被控征募美国人为中国提供情报/a-77502213?maca=chi-rss-chi-all-1127-rdf",
-      "excerpt": "美国司法部宣布，联邦调查局查获十余个网站，这些网站假冒咨询公司招聘拥有安全许可、可查看美国政府机密或敏感信息的雇员，向中国提供情报。",
-      "publishedAt": "2026-06-11T10:33:00.000Z",
-      "category": "politics",
-      "source": "DW 中文"
-    },
-    {
-      "sourceId": "dw-chinese",
       "title": "押注AI又怕大裁员惹麻烦 中国企业悄然削减职位",
       "url": "https://www.dw.com/zh/押注ai又怕大裁员惹麻烦-中国企业悄然削减职位/a-77501566?maca=chi-rss-chi-all-1127-rdf",
       "excerpt": "中国政府希望通过普及AI来提告生产效率，但又担心大量岗位流失导致社会动荡。为了规避劳动法限制且不引起政府注意，不少企业采取渐进式小规模裁员的策略。",
@@ -4994,13 +4991,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
+      "url": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+      "excerpt": "Funeral ceremonies will take place in Tehran and Qom before a burial in his home town of Mashhad.",
+      "publishedAt": "2026-06-13T12:11:25.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "伊朗宣布已故最高领袖哈梅内伊的葬礼和葬礼日期，葬礼仪式将在德黑兰和库姆举行，葬礼地点设在其故乡马什哈德。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Deadly military plane crash in India’s Assam",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/deadly-military-plane-crash-in-indias-assam?traffic_source=rss",
+      "excerpt": "A military transport aircraft has crashed in India’s northeastern Assam during a routine fligh.",
+      "publishedAt": "2026-06-13T12:10:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "印度阿萨姆邦一架军事运输飞机在例行飞行中坠毁，造成多名军人遇难。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Football: Why is India struggling to play the world’s most popular sport?",
       "url": "https://www.aljazeera.com/video/101-east/2026/6/13/football-why-is-india-struggling-to-play-the-worlds-most-popular-sport?traffic_source=rss",
       "excerpt": "As the 2026 FIFA World Cup kicks off, 101 East explores why India struggles to compete in the world's most popular sport",
       "publishedAt": "2026-06-13T11:30:00.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "随着2026年世界杯的临近，节目探讨印度为何在全球最受欢迎的运动足球中表现不佳。"
+      "summary": "伴随2026年世界杯的开启，101东探讨了印度为何难以在这项全球最受欢迎的运动中竞争。"
     },
     {
       "sourceId": "aljazeera",
@@ -5010,7 +5027,7 @@
       "publishedAt": "2026-06-13T11:29:31.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "印度空军的安东诺夫An-32运输机在阿萨姆州乔哈特附近坠毁，造成5名空军人员遇难。"
+      "summary": "印度阿萨姆邦一架安东诺夫An-32运输机坠毁，造成5名印度空军人员遇难。"
     },
     {
       "sourceId": "aljazeera",
@@ -5020,7 +5037,7 @@
       "publishedAt": "2026-06-13T11:16:57.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "在刚果民主共和国首都金沙萨，数百人示威抗议宪法变更，引发暴力冲突。"
+      "summary": "刚果民主共和国金夏萨发生数百人抗议政府宪法修正案的示威，暴力事件爆发。"
     },
     {
       "sourceId": "aljazeera",
@@ -5039,7 +5056,7 @@
       "publishedAt": "2026-06-13T11:08:34.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "也门的“蜘蛛侠”在攀登火山口时不幸遇难。"
+      "summary": "也门的“蜘蛛人”在攀登火山口时不幸遇难。"
     },
     {
       "sourceId": "aljazeera",
@@ -5049,7 +5066,7 @@
       "publishedAt": "2026-06-13T10:13:54.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "尽管有关和平协议的可能性，以色列依然对黎巴嫩展开空袭。"
+      "summary": "尽管伊朗表示与美国的潜在和平协议正在接近达成，以色列仍继续对黎巴嫩实施攻击。"
     },
     {
       "sourceId": "aljazeera",
@@ -5172,7 +5189,7 @@
       "sourceId": "aljazeera",
       "title": "Five killed as Israel hits south Lebanon, issues forced displacement orders",
       "url": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
-      "excerpt": "The Israeli military has threatened residents of 20 Lebanese towns and villages to leave their homes immediately.",
+      "excerpt": "The Israeli military has threatened residents of 24 Lebanese towns and villages to leave their homes immediately.",
       "publishedAt": "2026-06-13T07:33:14.000Z",
       "category": "politics",
       "source": "Al Jazeera"
@@ -5201,24 +5218,6 @@
       "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help?traffic_source=rss",
       "excerpt": "Gang leader Flores had controlled the vast criminal syndicate from Venezuela for years.",
       "publishedAt": "2026-06-13T06:50:06.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "‘A dream come true’: Fans revel as US win World Cup opener on home soil",
-      "url": "https://www.aljazeera.com/sports/2026/6/13/dream-come-true-world-cup-fever-ignites-los-angeles-as-usa-beat-paraguay?traffic_source=rss",
-      "excerpt": "Dominating 4-1 victory adds to joy of Team USA fans relishing the opportunity to see football on the brightest stage.",
-      "publishedAt": "2026-06-13T06:15:45.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Trump claims US kills Venezuela’s Tren de Aragua gang leader",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-claims-us-kills-venezuelas-tren-de-aragua-gang-leader?traffic_source=rss",
-      "excerpt": "Trump claims US kills Venezuela’s Tren de Aragua gang leader",
-      "publishedAt": "2026-06-13T06:07:40.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
