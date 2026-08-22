@@ -1,100 +1,102 @@
 {
-  "hero_headline": "加拿大全国推行新关税政策",
-  "daily_overview": "今日新闻聚焦于多个领域：技术方面，OpenAI与DeepMind分别推出了新AI产品和长上下文模型优化，展现AI技术进步；财经领域，印度外长访问俄罗斯，携手应对美方关税威胁，且加美贸易谈判接近尾声；在时政方面，加拿大将对美国实施50%的关税，外界关注两国关系动态，冲突是否升级成为关键问题。",
+  "hero_headline": "人工智能趋势与经济动向引关注",
+  "daily_overview": "今日，人工智能领域持续成为焦点，多个项目和研究推出，旨在推动行业发展。经济方面，美国与加拿大的贸易谈判再度陷入僵局，引发对双方经济前景的担忧。此外，关注中国和美方博弈下的AI技术发展，行业竞争愈发激烈。",
   "tech_briefs": [
     {
-      "title": "OpenAI发布AI Futures博客探讨新技术",
+      "title": "AI未来的新视角",
       "url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
-      "summary": "OpenAI推出AI Futures博客，旨在探讨AI如何重塑权力、治理、经济与个人自由，对AI的未来方向进行深入讨论。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "DeepMind与游戏工作室合作研发AI游戏技术",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-      "source": "DeepMind Blog",
-      "summary": "DeepMind合作游戏工作室，基于15年的AI研究，原型化突破性AI游戏玩法，推动游戏行业AI技术的应用与发展。（多家报道）",
+      "summary": "OpenAI推出了新博客《AI Futures》，探讨变革性人工智能如何影响权力、治理、经济和个人自由，展现了对未来的思考和期待。",
       "importance": 8
     },
     {
-      "title": "ChatGPT与Mistral智能助手推出新功能",
-      "url": "https://tldr.tech/ai/2026-08-21",
-      "source": "TLDR AI",
-      "summary": "ChatGPT与Mistral推出了新的功能，优化了用户在苹果信息中的互动体验，进一步推动AI在日常生活中的应用。（多家报道）",
+      "title": "AI模型在游戏中的应用",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "DeepMind Blog",
+      "summary": "谷歌DeepMind与游戏工作室合作，基于15年的AI研究推动突破性游戏玩法，标志着AI在娱乐行业的重要发展。",
+      "importance": 8
+    },
+    {
+      "title": "新兴AI项目引起关注",
+      "url": "https://github.com/mattpocock/skills",
+      "source": "GitHub Trending",
+      "summary": "项目名为Skills的GitHub项目，旨在帮助工程师提升技能，具备实际应用价值，解决现实工作中技术更新的问题。（多家报道）",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "印度外长将访俄应对美国关税威胁",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-foreign-minister-to-visit-russia-amid-us-tariff-threat",
-      "source": "Bloomberg Markets",
-      "summary": "印度外交部长将访问俄罗斯，与俄方共同主持第27届印俄政府间委员会，会议将涉及贸易、科技等多个领域。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "加拿大将在贸易谈判中实施对美关税",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "加拿大政府宣布，将对美国实施50%的关税，标志着两国在贸易谈判中出现紧张局势，预计将影响双边关系的发展。（多家报道）",
+      "title": "美加贸易谈判再度陷入僵局",
+      "url": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "美国与加拿大在关税问题上的谈判再次失败，导致美国对200亿美元加拿大商品征收50%关税，加拿大表示将采取对等措施。",
       "importance": 9
     },
     {
-      "title": "美加贸易协定紧张局势加剧",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/india-s-central-bank-says-forex-deposit-inflows-at-65-4-billion",
+      "title": "中国AI模型性能接近美国竞争对手",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/chinese-ai-models-gain-ground-on-price-and-use-video",
       "source": "Bloomberg Markets",
-      "summary": "根据最新报告，加拿大和美国的贸易谈判陷入僵局，贸易协议未能达成，或将对两国经济产生广泛影响。（多家报道）",
+      "summary": "中国AI模型以更低的价格和开放式技术快速缩小与美国对手的性能差距，吸引了越来越多的用户。",
+      "importance": 8
+    },
+    {
+      "title": "Klarna股价暴跌反映德国消费疲软",
+      "url": "https://www.ft.com/content/73755e41-8a6d-4fb4-9f4e-5d768450fc54?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "欧洲金融科技公司Klarna因德国消费者支出疲软而遭遇股价大跌，反映出当前市场环境的困难。",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国和加拿大贸易谈判破裂",
-      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "source": "NPR World",
-      "summary": "美国与加拿大的贸易谈判在最后关头破裂，导致美国将对200亿美元的加拿大进口商品实施50%的关税，影响两国关系。（多家报道）",
+      "title": "乌克兰商城遭袭，救援持续",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "乌克兰商城遭到袭击，目前已有16人遇难，130人受伤，救援工作仍在继续。",
       "importance": 8
     },
     {
-      "title": "法国导演作品重刊引发关注",
-      "url": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "source": "The Guardian",
-      "summary": "法国著名导演Éric Rohmer的小说《Élisabeth》重刊，引发广泛关注，成为分析其电影作品的先驱。（多家报道）",
-      "importance": 6
+      "title": "特朗普关税政策升级",
+      "url": "https://www.dw.com/zh/特朗普关税加码-加拿大力图降低对美依赖/a-78469192?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "美国对部分加拿大商品征收50%关税，加拿大政府计划采取相应措施，挑战特朗普的贸易政策。",
+      "importance": 7
     }
   ],
-  "editor_note": "今日的全球动态显现出科技与金融领域的紧密联系，国际贸易博弈亦引发各国的关注，形势严峻，值得持续跟进。",
+  "editor_note": "今日新闻聚焦人工智能与国际贸易，反映全球经济面临的挑战与机遇，值得关注行业的后续发展。",
   "keywords": [
-    "AI技术",
-    "贸易谈判",
-    "加拿关税",
-    "国际关系",
-    "开放科技",
-    "市场动态"
+    "人工智能",
+    "美国",
+    "加拿大",
+    "贸易",
+    "模型",
+    "游戏研发",
+    "投资",
+    "经济"
   ],
   "trading": {
-    "market_overview": "当前加密市场情况显示出贪婪情绪，加密恐慌贪婪指数为 71。整体加密市值为 2.62 万亿美金，24 小时变动为 -2.45%。在美国股市方面，S&P 500 ETF (SPY) 的价格为 765.72 美元，呈现出小幅上涨的趋势。整体市场情绪回暖，但技术指标显示出部分资产的卖压需要注意。观察市场动态时，需综合考虑各类资产的技术面表现。",
+    "market_overview": "当前加密市场的恐慌贪婪指数为 71，显示出市场处于贪婪状态。比特币主导率为 58.8%，Ethereum 则占 11.1%。美股方面，标普 500 ETF（SPY）当前价格为 765.72，RSI 指标为 54.2，整体趋势维持在看涨模式下，同时也有一些资产如 META 面临较大回撤风险。商品市场上，WTI 原油期货表现稳定，并出现多头排列。而美债收益率在 4.74% 也引发了市场关注。整体来看，四大资产的技术面显示出一定的不确定性，需进一步观察潜在的方向变化。",
     "watchlist": [
       {
         "symbol": "BTC-USD",
-        "display_name": "Bitcoin (BTC)",
+        "display_name": "Bitcoin",
         "stance": "偏上行",
-        "rationale": "当前价格为 77049.39 美元，1 日涨幅 -1.64%，但 5 日涨幅达到 19.44%。RSI 值为 80.1，处于超买状态，同时显示出 MACD 金叉，预示短期内趋势可能持续上行。"
+        "rationale": "当前比特币价格为 77316.81 美元，反映了 24 小时上涨 19.86%。 RSI 指标为 81.2，显示超买状态，但 MACD 则显示金叉，显示潜在动能。"
       },
       {
-        "symbol": "ETH-USD",
-        "display_name": "Ethereum (ETH)",
+        "symbol": "CL=F",
+        "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "当前价格为 2416.95 美元，1 日下跌 3.91%，但 5 日涨幅 26.4%。RSI 值达 77.4，显示超买情况，且有 MACD 金叉信号，表明可能存在继续上涨的动力。"
+        "rationale": "WTI 原油期货当前价格为 87.06 美元，过去五天上涨 5.66%。其 RSI 指标为 59.1，处于正常状态，并且呈现出多头排列形态。"
       },
       {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
-        "stance": "中性",
-        "rationale": "当前价格为 765.72 美元，1 日涨幅 0.41%，但 5 日下跌 1.37%。RSI 值为 54.2，处于正常状态。MACD 死叉信号提示短期下行风险，需要关注后续走势。"
+        "symbol": "^TNX",
+        "display_name": "10Y 美债收益率 (%)",
+        "stance": "偏下行",
+        "rationale": "10年期美债收益率当前为 4.74%，表现出 0.89% 的每日涨幅。尽管趋势为上涨，但接近 52 周高，可能面临回调风险，且近期 RSI 指标显示为 59.2。"
       }
     ],
-    "risk_caveat": "风险提示：过去走势不代表未来表现，本报告仅供技术指标解读参考，请谨慎使用。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考。投资需谨慎。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -329,18 +331,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 77049.39,
-        "pct1Day": -1.6414047646212637,
-        "pct5Day": 19.444837258693607,
-        "pct52WeekHigh": -38.945666918677915,
-        "pct52WeekLow": 33.42401851527901,
-        "sma20": 66048.117578125,
-        "sma50": 64860.65984375,
-        "sma200": 68980.67208984375,
-        "rsi14": 80.05166239520254,
-        "macd": 2512.3118394978374,
-        "macdSignal": 940.0175546992419,
-        "macdHistogram": 1572.2942847985955,
+        "currentPrice": 77316.81,
+        "pct1Day": -1.3000256110959105,
+        "pct5Day": 19.859401713775206,
+        "pct52WeekHigh": -38.733761934711055,
+        "pct52WeekLow": 33.88710136423285,
+        "sma20": 66061.488671875,
+        "sma50": 64866.00828125,
+        "sma200": 68982.00919921875,
+        "rsi14": 81.22073440287765,
+        "macd": 2533.6446386431344,
+        "macdSignal": 944.2841145283014,
+        "macdHistogram": 1589.360524114833,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -361,18 +363,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2416.95,
-        "pct1Day": -3.909372726907425,
-        "pct5Day": 26.396155447003327,
-        "pct52WeekHigh": -51.209522192657545,
-        "pct52WeekLow": 60.43417558924602,
-        "sma20": 1988.0868530273438,
-        "sma50": 1906.7178784179687,
-        "sma200": 2005.3610260009766,
-        "rsi14": 77.43109043999115,
-        "macd": 120.6483152663925,
-        "macdSignal": 57.751233305613255,
-        "macdHistogram": 62.897081960779246,
+        "currentPrice": 2429.05,
+        "pct1Day": -3.4283132966318894,
+        "pct5Day": 27.028933734062967,
+        "pct52WeekHigh": -50.96526195497416,
+        "pct52WeekLow": 61.23735874348171,
+        "sma20": 1988.6918579101562,
+        "sma50": 1906.9598803710937,
+        "sma200": 2005.4215264892578,
+        "rsi14": 78.62171578335403,
+        "macd": 121.61356522187657,
+        "macdSignal": 57.94428329671007,
+        "macdHistogram": 63.6692819251665,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -393,18 +395,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 93.16,
-        "pct1Day": -0.5270594783080231,
-        "pct5Day": 22.669223994315526,
-        "pct52WeekHigh": -63.20838956138761,
-        "pct52WeekLow": 54.200830526070455,
-        "sma20": 78.06691970825196,
-        "sma50": 77.10295791625977,
-        "sma200": 81.12757053375245,
-        "rsi14": 81.34614587942168,
-        "macd": 3.6112932137723845,
-        "macdSignal": 1.5181690924573874,
-        "macdHistogram": 2.093124121314997,
+        "currentPrice": 93.9,
+        "pct1Day": 0.2630862493224295,
+        "pct5Day": 23.643625301269097,
+        "pct52WeekHigh": -62.91614190440421,
+        "pct52WeekLow": 55.42569757833853,
+        "sma20": 78.10391960144042,
+        "sma50": 77.11775787353515,
+        "sma200": 81.1312705230713,
+        "rsi14": 83.21835239558845,
+        "macd": 3.670324382392181,
+        "macdSignal": 1.5299753261813467,
+        "macdHistogram": 2.1403490562108343,
         "trend": "neutral",
         "rsiState": "overbought",
         "signals": [
@@ -699,13 +701,13 @@
       "timestamp": "2026-08-22T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2616974940164.9585,
-      "total24hVolumeUsd": 166674234367.03506,
-      "marketCapChangePct24h": -2.4490542350692075,
-      "btcDominance": 58.82905816333093,
-      "ethDominance": 11.095086950320173,
+      "totalMarketCapUsd": 2630195029609.246,
+      "total24hVolumeUsd": 162545784051.301,
+      "marketCapChangePct24h": -0.8197794834212031,
+      "btcDominance": 58.794772520128404,
+      "ethDominance": 11.109577833652835,
       "activeCryptocurrencies": 18618
     },
-    "generated_at": "2026-08-22T11:33:37.311Z"
+    "generated_at": "2026-08-22T12:58:32.885Z"
   }
 }
